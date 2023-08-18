@@ -11,10 +11,18 @@ characteristics. <!-- badges: end -->
 
 ## Installation
 
-There are two ways to install this package in Rstudio on your PC:
+There are several ways to install this package:
 
 Way 1:  
-Firstly ensure that you have installed the package `devtools`:
+Download and install directly from CRAN:
+
+``` r
+install.packages("DSAM")
+```
+
+Way 2:  
+Download and install from github: Firstly ensure that you have installed
+the package `devtools`:
 
 ``` r
 install.packages("devtools")
@@ -26,12 +34,12 @@ Then you can install the package like so:
 devtools::install_github("lark-max/DSAM")
 ```
 
-Way 2:  
+Way 3:  
 You can download the zip package provided in the `release` page, and
 install the package by hand:
 
 ``` r
-install.packages("DSAM_1.0.0.tar.gz",repos = NULL,type = "source")
+install.packages("DSAM_1.0.x.tar.gz",repos = NULL,type = "source")
 ```
 
 After installation, You can then load the package by:
@@ -95,7 +103,7 @@ Vector type: When sel.alg = "TIMECON", the program will select a continuous time
 Boolean variable that determines whether the data subsets need to be output or not. The default is FALSE.
 
 `showTrace` 
-evel of user feedback. The default is FALSE.
+Boolean variable that determines the level of user feedback. The default is FALSE.
 ```
 
 ## Example

@@ -1,6 +1,6 @@
 Package: DSAM
 Title: Data Splitting Algorithms for Model Developments
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: 
     c(person(
       	given="Feifei", 
@@ -32,9 +32,9 @@ Imports: caret, kohonen, Matrix, pROC, stats, utils, xgboost
 Depends: R (>= 2.10)
 LazyData: true
 NeedsCompilation: no
-Packaged: 2023-08-15 09:47:41 UTC; junyi
+Packaged: 2023-08-18 10:32:31 UTC; junyi
 Author: Feifei Zheng [aut, ths],
   Junyi Chen [aut, cre] (<https://orcid.org/0009-0001-1978-6475>)
 Maintainer: Junyi Chen <jun1chen@zju.edu.cn>
 Repository: CRAN
-Date/Publication: 2023-08-16 06:42:40 UTC
+Date/Publication: 2023-08-18 23:42:35 UTC
