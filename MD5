@@ -1,8 +1,8 @@
-fd15e91966a42c86076a89e4e81c4519 *DESCRIPTION
+7a1abac52478d2b71ff9be30771087d8 *DESCRIPTION
 88fb287f5db321d00df159517cb021f1 *LICENSE
-7ee7995309f23370899333b60ca5a603 *NAMESPACE
-1db083e829ab1330455822c6c3cf9f60 *NEWS.md
-58a6dfd1aa76223cd9ec116b03029b30 *R/DSAM.R
+f513bc6e6f665ea2cbe02f5bdc51d8dd *NAMESPACE
+c4da0f298c7edbe85b58450b5ab7ee65 *NEWS.md
+7c5d97baeed0749cb34aeceb44343df5 *R/DSAM.R
 b565e8264dae9a07f44a48c30f3fc4d2 *R/data.R
 6b16180cb77eb1fb61b596ef10ed8d3c *README.md
 c0e0d7dcaae384246c450dac84e369e3 *data/DSAM_test_largeData.rda
@@ -23,6 +23,9 @@ ef7c0105226c5d18b25e8e753a91e3a4 *man/SBSS.P.Rd
 006bc339b706b63ab876285b13dee229 *man/checkFull.Rd
 9b97ced4d5ca9cf18c6b5bd77c71dab9 *man/dataSplit.Rd
 266a741b645a98ff481d8be25338799c *man/getAUC.Rd
+80cdd9966f021328635edae8e3a4ff07 *man/getMax.Rd
+1156fd8a5a0484f9dfe5c5fdeaf79b0a *man/getMean.Rd
+c0fdb74b9aa387eeb587da5b7ef3bbc8 *man/getMin.Rd
 389d9150a2be5fd0cd5d105fce4272c4 *man/getSnen.Rd
 f2c1b6a5ea51a5f8b51f5257b0dfe723 *man/par.default.Rd
 d2041eee8d5fa466b6865cc1fa6b1b4d *man/remainUnsample.Rd
